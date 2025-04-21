@@ -1,2 +1,2 @@
 # 🩺 Desafio de Design – App de Marcação de Consulta Médica
-![Cover](https://github.com/user-attachments/assets/b0672670-20ae-451a-b70e-eb07b3e7a2dd)
+![Cover](https://github.com/user-attachments/assets/16f30b17-b535-4788-8573-85272bbe2bc1)
